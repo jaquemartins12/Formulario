@@ -1,0 +1,46 @@
+body{
+
+background-color: #d7b89c;   /*Alterar cor de fundo*/
+
+text-align: center; 
+
+
+  
+
+
+
+
+}
+
+.formulario input{
+
+
+background-color: #99c9bd;
+color: #fff;
+border-radius: 10px;
+
+}
+.DDD {
+background-color: #99c9bd;
+border-radius: 10px; 
+
+
+}
+.botao-enviar input{
+width: 200px;
+color: black;
+border-color: #15212a;
+
+
+}
+
+.botao-enviar input:hover{
+
+
+color: white;
+
+background-color: blueviolet; /*Cor de fundo*/
+border-color: brown; /*Cor da borda*/
+transition: 0.5s; /*Tempo para transição*/
+
+}
